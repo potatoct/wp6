@@ -11,7 +11,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 27 Jun 2022 06:39:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Jul 2022 03:19:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		Comment on WordPress 6.0 on GitHub by A WordPress Commenter		</title>
 		<link>./../../2022/06/27/hello-world/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
